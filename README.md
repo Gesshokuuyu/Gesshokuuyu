@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Andrei Dietrich
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Back e Front End`**
 
 Me chamo Andrei Luciano Dietrich, tenho 18 anos e sou natural de Joinville, Santa Catarina. Concluí o ensino médio na E.E.B. Professora Jandira D'Ávila. Atualmente, estou cursando Engenharia de Software na Univille. Sou aficionado por tecnologia desde muito cedo, e atuo na área desde os 
 16 anos.
