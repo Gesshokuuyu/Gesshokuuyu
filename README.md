@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Andrei Dietrich
+# 👨🏼‍💻 Andrei Dietrich
 
 **`Desenvolvedor Back e Front End`**
 
