@@ -52,11 +52,16 @@ status:     🟢 Disponível para projetos
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Slim](https://img.shields.io/badge/Slim-74A045?style=for-the-badge&logo=slim&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### 🗄️ Banco de Dados & Ferramentas
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Informix](https://img.shields.io/badge/Informix-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Mysql](https://img.shields.io/badge/mysql-06B6D4?style=for-the-badge&logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -88,8 +93,19 @@ status:     🟢 Disponível para projetos
 
 ---
 
+## 📬 Contato
+
 <div align="center">
 
-**`< Feito com 💜 em Joinville />`**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrei%20Dietrich-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-dietrich-b6847b35b/)
+[![Gmail](https://img.shields.io/badge/andreilucianodietrich%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreilucianodietrich@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+**`< Feito em Joinville />`**
 
 </div>
