@@ -47,6 +47,7 @@ status:     🟢 Disponível para projetos
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Quasar](https://img.shields.io/badge/Quasar-050A14?style=for-the-badge&logo=quasar&logoColor=white)
 
 ### ⚙️ Back-End
 
