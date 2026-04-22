@@ -94,7 +94,7 @@ status:     🟢 Disponível para projetos
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Gesshokuuyu&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gesshokuuyu)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
