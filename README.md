@@ -25,7 +25,7 @@
 
 ```yaml
 nome:       Andrei Luciano Dietrich
-idade:      18 anos
+idade:      19 anos
 localidade: Joinville, Santa Catarina 🇧🇷
 graduação:  Engenharia de Software — Univille
 escola:     E.E.B. Professora Jandira D'Ávila
