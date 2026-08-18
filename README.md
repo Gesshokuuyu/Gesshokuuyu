@@ -1,119 +1,119 @@
 <div align="center">
 
-```
- █████╗ ███╗   ██╗██████╗ ██████╗ ███████╗██╗
-██╔══██╗████╗  ██║██╔══██╗██╔══██╗██╔════╝██║
-███████║██╔██╗ ██║██║  ██║██████╔╝█████╗  ██║
-██╔══██║██║╚██╗██║██║  ██║██╔══██╗██╔══╝  ██║
-██║  ██║██║ ╚████║██████╔╝██║  ██║███████╗██║
-╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2545,100:1E90FF&height=220&section=header&text=Andrei%20Luciano%20Dietrich&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Back-End%20%26%20Front-End&descAlignY=55&descSize=20" width="100%"/>
 
-### 👨‍💻 Andrei Luciano Dietrich
+[![GitHub Stars](https://custom-icon-badges.demolab.com/github/stars/Gesshokuuyu?color=1E3A8A&labelColor=0B2545&style=for-the-badge&logo=star&label=estrelas)](https://github.com/Gesshokuuyu?tab=repositories&sort=stargazers)
+[![GitHub Followers](https://custom-icon-badges.demolab.com/github/followers/Gesshokuuyu?color=1E3A8A&labelColor=0B2545&style=for-the-badge&logo=github&label=seguidores&logoColor=white)](https://github.com/Gesshokuuyu?tab=followers)
+![Visitas](https://komarev.com/ghpvc/?username=Gesshokuuyu&style=for-the-badge&color=1E3A8A&label=visitas)
 
-**`Desenvolvedor Back-End & Front-End · Joinville, SC`**
-
-[![GitHub Stars](https://custom-icon-badges.demolab.com/github/stars/Gesshokuuyu?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas)](https://github.com/Gesshokuuyu?tab=repositories&sort=stargazers)
-[![GitHub Followers](https://custom-icon-badges.demolab.com/github/followers/Gesshokuuyu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white)](https://github.com/Gesshokuuyu?tab=followers)
-![Visiting](https://komarev.com/ghpvc/?username=Gesshokuuyu&style=for-the-badge&color=blueviolet&label=Visitas)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=4CC9F0&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-End+%26+Front-End;Engenharia+de+Software+%40+Univille;Apaixonado+por+resolver+problemas+reais;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 
 </div>
 
----
+<br>
 
-## 🧠 Sobre mim
+## Sobre mim
 
-```yaml
-nome:       Andrei Luciano Dietrich
-idade:      19 anos
-localidade: Joinville, Santa Catarina 🇧🇷
-graduação:  Engenharia de Software — Univille
-escola:     E.E.B. Professora Jandira D'Ávila
-atuando:    desde os 16 anos
-foco:       Back-End + Front-End
-status:     🟢 Disponível para projetos
-```
+Sou desenvolvedor Back-End e Front-End, atualmente cursando Engenharia de Software na Univille, em Joinville (SC). Atuo profissionalmente na área desde os 16 anos, período em que venho construindo experiência prática em diferentes camadas de aplicações web — da modelagem do banco de dados até a experiência final do usuário na interface.
 
----
+Gosto de projetos que exigem raciocínio de ponta a ponta: entender o problema de negócio, desenhar uma arquitetura sólida e entregar um produto que realmente funcione no dia a dia de quem vai usá-lo. É essa visão completa que me motiva a transitar entre back-end e front-end sem perder de vista a qualidade do código nem a experiência de quem está do outro lado da tela.
 
-## 🚀 Tech Stack
+No back-end, trabalho principalmente com **PHP** e **Laravel**, além de **Python** e **NestJS** para APIs e serviços mais especializados. No front-end, utilizo **Vue.js**, **Angular**, **Tailwind CSS** e **Bootstrap** para construir interfaces responsivas e consistentes. Tenho também experiência com bancos de dados relacionais (**SQL Server**, **PostgreSQL**, **MySQL**, **Oracle** e **Informix**), containerização com **Docker** e automação de pipelines via **GitHub Actions**.
 
-### 🎨 Front-End
+**Status atual:** disponível para novos projetos e oportunidades — seja como colaborador em uma equipe, seja em consultorias pontuais.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Quasar](https://img.shields.io/badge/Quasar-050A14?style=for-the-badge&logo=quasar&logoColor=white)
+<br>
 
-### ⚙️ Back-End
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Slim](https://img.shields.io/badge/Slim-74A045?style=for-the-badge&logo=slim&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Artisan](https://img.shields.io/badge/Artisan-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-### 🗄️ Banco de Dados & Ferramentas
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Informix](https://img.shields.io/badge/Informix-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
----
-
-## 📊 Estatísticas do GitHub
+## Tecnologias
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gesshokuuyu&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gesshokuuyu&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=12&count_private=true&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind,bootstrap,angular,php,laravel,python,nestjs,postgres,mysql,docker,git,github,rabbitmq&theme=dark" alt="Skills" />
 
 </div>
+
+<details>
+<summary><b>Ver stack completa por categoria</b></summary>
+<br>
+
+**Front-End**
+
+![HTML5](https://img.shields.io/badge/HTML5-0B2545?style=for-the-badge&logo=html5&logoColor=4CC9F0)
+![CSS3](https://img.shields.io/badge/CSS3-0B2545?style=for-the-badge&logo=css3&logoColor=4CC9F0)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B2545?style=for-the-badge&logo=javascript&logoColor=4CC9F0)
+![Vue.js](https://img.shields.io/badge/Vue.js-0B2545?style=for-the-badge&logo=vuedotjs&logoColor=4CC9F0)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0B2545?style=for-the-badge&logo=tailwindcss&logoColor=4CC9F0)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0B2545?style=for-the-badge&logo=bootstrap&logoColor=4CC9F0)
+![Angular](https://img.shields.io/badge/Angular-0B2545?style=for-the-badge&logo=angular&logoColor=4CC9F0)
+![Quasar](https://img.shields.io/badge/Quasar-0B2545?style=for-the-badge&logo=quasar&logoColor=4CC9F0)
+
+**Back-End**
+
+![PHP](https://img.shields.io/badge/PHP-0B2545?style=for-the-badge&logo=php&logoColor=4CC9F0)
+![Laravel](https://img.shields.io/badge/Laravel-0B2545?style=for-the-badge&logo=laravel&logoColor=4CC9F0)
+![Slim](https://img.shields.io/badge/Slim-0B2545?style=for-the-badge&logo=slim&logoColor=4CC9F0)
+![Python](https://img.shields.io/badge/Python-0B2545?style=for-the-badge&logo=python&logoColor=4CC9F0)
+![Prisma](https://img.shields.io/badge/Prisma-0B2545?style=for-the-badge&logo=prisma&logoColor=4CC9F0)
+![NestJS](https://img.shields.io/badge/NestJS-0B2545?style=for-the-badge&logo=nestjs&logoColor=4CC9F0)
+![Artisan](https://img.shields.io/badge/Artisan-0B2545?style=for-the-badge&logo=laravel&logoColor=4CC9F0)
+
+**Banco de Dados & Ferramentas**
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-0B2545?style=for-the-badge&logo=microsoftsqlserver&logoColor=4CC9F0)
+![Oracle](https://img.shields.io/badge/Oracle-0B2545?style=for-the-badge&logo=oracle&logoColor=4CC9F0)
+![Informix](https://img.shields.io/badge/Informix-0B2545?style=for-the-badge&logo=ibm&logoColor=4CC9F0)
+![MySQL](https://img.shields.io/badge/MySQL-0B2545?style=for-the-badge&logo=mysql&logoColor=4CC9F0)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B2545?style=for-the-badge&logo=postgresql&logoColor=4CC9F0)
+![Git](https://img.shields.io/badge/Git-0B2545?style=for-the-badge&logo=git&logoColor=4CC9F0)
+![Docker](https://img.shields.io/badge/Docker-0B2545?style=for-the-badge&logo=docker&logoColor=4CC9F0)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0B2545?style=for-the-badge&logo=github-actions&logoColor=4CC9F0)
+![Swagger](https://img.shields.io/badge/Swagger-0B2545?style=for-the-badge&logo=swagger&logoColor=4CC9F0)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0B2545?style=for-the-badge&logo=rabbitmq&logoColor=4CC9F0)
+
+</details>
+
+<br>
+
+## Estatísticas & Atividade
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Gesshokuuyu&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gesshokuuyu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B2545&title_color=4CC9F0&icon_color=4CC9F0&text_color=E0E1DD&locale=pt-br" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gesshokuuyu&layout=compact&hide_border=true&bg_color=0B2545&title_color=4CC9F0&text_color=E0E1DD&langs_count=12&count_private=true&custom_title=Linguagens" />
+
+<img src="https://streak-stats.demolab.com?user=Gesshokuuyu&hide_border=true&background=0B2545&ring=4CC9F0&fire=4CC9F0&currStreak=4CC9F0&sideText=E0E1DD&dates=E0E1DDAA&border=13315C&locale=pt_BR" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gesshokuuyu&bg_color=0B2545&color=4CC9F0&line=4CC9F0&point=E0E1DD&area=true&area_color=1E3A8A&hide_border=true&custom_title=Atividade%20no%20GitHub" width="100%"/>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Gesshokuuyu/Gesshokuuyu/output/github-contribution-grid-snake.svg" alt="Snake das contribuições" width="100%"/>
 
 </div>
 
----
+<br>
 
-## 🏆 Troféus
+## Troféus
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gesshokuuyu)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gesshokuuyu&theme=onedark&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
----
+<br>
 
-## 📬 Contato
+## Vamos conversar?
+
+Estou sempre aberto a trocar ideia sobre projetos, oportunidades de trabalho ou colaborações em código aberto. Os canais mais rápidos para me encontrar são:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrei%20Dietrich-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-dietrich-b6847b35b/)
-[![Gmail](https://img.shields.io/badge/andreilucianodietrich%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreilucianodietrich@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrei%20Dietrich-0B2545?style=for-the-badge&logo=linkedin&logoColor=4CC9F0)](https://www.linkedin.com/in/andrei-dietrich-b6847b35b/)
+[![Gmail](https://img.shields.io/badge/andreilucianodietrich%40gmail.com-0B2545?style=for-the-badge&logo=gmail&logoColor=4CC9F0)](mailto:andreilucianodietrich@gmail.com)
 
 </div>
 
----
+<br>
 
-<div align="center">
-
-**`< Feito em Joinville />`**
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2545,100:1E90FF&height=120&section=footer" width="100%"/>
